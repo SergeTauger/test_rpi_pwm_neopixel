@@ -1,0 +1,10 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/periphery
+
+Name: libperiphery
+Description: Library for peripheral I/O (GPIO, LED, PWM, SPI, I2C, MMIO, Serial) in Linux
+Version: 2.4.3
+Libs: -L${libdir} -lperiphery
+Cflags: -I${includedir}

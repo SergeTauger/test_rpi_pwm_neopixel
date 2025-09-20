@@ -1,0 +1,16 @@
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/periphery.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/test_gpio.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/test_gpio_sysfs.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/test_i2c.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/test_led.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/test_mmio.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/test_pwm.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/test_serial.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/test_spi.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/tests.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/edit_cache.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/rebuild_cache.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/list_install_components.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/install.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/install/local.dir
+/home/printer/coding/u8g2_rpi/3rdparty/c-periphery/build/CMakeFiles/install/strip.dir

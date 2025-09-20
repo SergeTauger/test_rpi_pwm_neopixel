@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -pedantic -Wall -Wextra -Wno-stringop-truncation -fPIC -O3 CMakeFiles/test_gpio.dir/tests/test_gpio.c.o -o test_gpio  libperiphery.a -lpthread 

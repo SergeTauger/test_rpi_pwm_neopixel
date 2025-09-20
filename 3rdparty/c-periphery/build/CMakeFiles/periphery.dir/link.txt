@@ -1,0 +1,2 @@
+/usr/bin/ar qc libperiphery.a CMakeFiles/periphery.dir/src/gpio.c.o CMakeFiles/periphery.dir/src/gpio_cdev_v1.c.o CMakeFiles/periphery.dir/src/gpio_cdev_v2.c.o CMakeFiles/periphery.dir/src/gpio_sysfs.c.o CMakeFiles/periphery.dir/src/i2c.c.o CMakeFiles/periphery.dir/src/led.c.o CMakeFiles/periphery.dir/src/mmio.c.o CMakeFiles/periphery.dir/src/pwm.c.o CMakeFiles/periphery.dir/src/serial.c.o CMakeFiles/periphery.dir/src/spi.c.o CMakeFiles/periphery.dir/src/version.c.o
+/usr/bin/ranlib libperiphery.a

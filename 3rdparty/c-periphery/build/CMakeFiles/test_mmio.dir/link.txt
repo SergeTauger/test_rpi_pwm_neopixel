@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -pedantic -Wall -Wextra -Wno-stringop-truncation -fPIC -O3 CMakeFiles/test_mmio.dir/tests/test_mmio.c.o -o test_mmio  libperiphery.a -lpthread 

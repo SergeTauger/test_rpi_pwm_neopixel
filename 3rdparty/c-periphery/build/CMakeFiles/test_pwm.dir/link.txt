@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -pedantic -Wall -Wextra -Wno-stringop-truncation -fPIC -O3 CMakeFiles/test_pwm.dir/tests/test_pwm.c.o -o test_pwm  libperiphery.a -lpthread 

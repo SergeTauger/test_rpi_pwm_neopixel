@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=gnu99 -pedantic -Wall -Wextra -Wno-stringop-truncation -fPIC -O3 CMakeFiles/test_spi.dir/tests/test_spi.c.o -o test_spi  libperiphery.a -lpthread 
